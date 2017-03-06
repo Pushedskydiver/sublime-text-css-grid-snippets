@@ -1,7 +1,7 @@
 <snippet>
-    <content><![CDATA[grid-template-areas: 
-    	"${1:<grid-area-name>}"
-    	"${2:<grid-area-name>}";
+    <content><![CDATA[grid-template-areas:
+  	"${1:<grid-area-name>}"
+  	"${2:<grid-area-name>}";
 	]]></content>
     <tabTrigger>gta</tabTrigger>
     <scope>source.css, source.sass, source.scss, source.less</scope>
