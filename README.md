@@ -1,11 +1,5 @@
 # CSS Grid Layout Snippets
 
-[![apm](https://img.shields.io/apm/v/css-grid-snippets.svg?style=flat-square)](https://atom.io/packages/css-grid-snippets)
-[![apm](https://img.shields.io/apm/dm/css-grid-snippets.svg?style=flat-square)](https://atom.io/packages/css-grid-snippets)
-[![apm](https://img.shields.io/apm/l/css-grid-snippets.svg?style=flat-square)](https://atom.io/packages/css-grid-snippets)
-
-###### An Atom Package - [Atom.io](https://atom.io/packages/css-grid-snippets) : [GitHub](https://github.com/pushedskydiver/atom-css-grid-snippets)
-
 Shorthand [snippets](https://atom.io/packages/snippets) for CSS, SCSS, Sass, and Less.
 
 ## Preview
