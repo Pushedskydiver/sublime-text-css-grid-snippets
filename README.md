@@ -3,7 +3,7 @@
 Shorthand snippets for CSS, SCSS, Sass, and Less.
 
 ## Preview
-![CSS grid snippets in atom](https://s10.postimg.org/lp7ivhwop/css_grid_snippets.gif)
+![CSS grid snippets in sublime text](https://s23.postimg.org/4cg5nmjln/css_grid_snippets.gif)
 
 ## What is CSS Grid Layout?
 To put it simply CSS Grid Layout (aka "Grid"), is a two-dimensional grid-based layout system that aims to do nothing less than completely change the way we design grid-based user interfaces. It hasn't been added yet to modern browsers but is expected to be added within the coming months.
