@@ -1,6 +1,6 @@
 # CSS Grid Layout Snippets
 
-Shorthand [snippets](https://atom.io/packages/snippets) for CSS, SCSS, Sass, and Less.
+Shorthand snippets for CSS, SCSS, Sass, and Less.
 
 ## Preview
 ![CSS grid snippets in atom](https://s10.postimg.org/lp7ivhwop/css_grid_snippets.gif)
