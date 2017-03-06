@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[align-items: start;]]></content>
+    <tabTrigger>ais</tabTrigger>
+    <scope>source.css, source.sass, source.scss, source.less</scope>
+    <description>align items start property</description>
+</snippet>

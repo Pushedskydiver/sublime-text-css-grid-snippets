@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[align-items: end;]]></content>
+    <tabTrigger>aie</tabTrigger>
+    <scope>source.css, source.sass, source.scss, source.less</scope>
+    <description>align items end property</description>
+</snippet>

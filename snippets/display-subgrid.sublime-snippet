@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[display: subgrid;]]></content>
+    <tabTrigger>dissg</tabTrigger>
+    <scope>source.css, source.sass, source.scss, source.less</scope>
+    <description>display subgrid property</description>
+</snippet>

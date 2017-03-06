@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[justify-self: stretch;]]></content>
+    <tabTrigger>jsstr</tabTrigger>
+    <scope>source.css, source.sass, source.scss, source.less</scope>
+    <description>justify self stretch property</description>
+</snippet>

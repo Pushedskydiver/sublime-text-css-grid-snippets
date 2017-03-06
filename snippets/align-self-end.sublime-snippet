@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[align-self: end;]]></content>
+    <tabTrigger>alse</tabTrigger>
+    <scope>source.css, source.sass, source.scss, source.less</scope>
+    <description>align self end property</description>
+</snippet>

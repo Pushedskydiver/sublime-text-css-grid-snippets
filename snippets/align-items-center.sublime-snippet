@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[align-items: center;]]></content>
+    <tabTrigger>aic</tabTrigger>
+    <scope>source.css, source.sass, source.scss, source.less</scope>
+    <description>align items property</description>
+</snippet>

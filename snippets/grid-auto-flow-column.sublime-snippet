@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[grid-auto-flow: column;]]></content>
+    <tabTrigger>gafc</tabTrigger>
+    <scope>source.css, source.sass, source.scss, source.less</scope>
+    <description>grid auto flow column property</description>
+</snippet>

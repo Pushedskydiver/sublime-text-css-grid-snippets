@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[grid-area: ${1:<name>};]]></content>
+    <tabTrigger>gra</tabTrigger>
+    <scope>source.css, source.sass, source.scss, source.less</scope>
+    <description>grid area property</description>
+</snippet>

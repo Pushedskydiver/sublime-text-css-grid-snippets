@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[justify-content: ${1:center};]]></content>
+    <tabTrigger>jc</tabTrigger>
+    <scope>source.css, source.sass, source.scss, source.less</scope>
+    <description>justify content property</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[align-items: stretch;]]></content>
+    <tabTrigger>aistr</tabTrigger>
+    <scope>source.css, source.sass, source.scss, source.less</scope>
+    <description>align items stretch property</description>
+</snippet>

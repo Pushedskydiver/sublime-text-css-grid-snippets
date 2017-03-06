@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[grid-row: ${1:1} / ${1:2};]]></content>
+    <tabTrigger>gr</tabTrigger>
+    <scope>source.css, source.sass, source.scss, source.less</scope>
+    <description>grid row start and end property</description>
+</snippet>

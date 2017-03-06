@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[align-self: stretch;]]></content>
+    <tabTrigger>alsstr</tabTrigger>
+    <scope>source.css, source.sass, source.scss, source.less</scope>
+    <description>align self stretch property</description>
+</snippet>

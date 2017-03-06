@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[align-cotntent: ${1:center};]]></content>
+    <tabTrigger>ac</tabTrigger>
+    <scope>source.css, source.sass, source.scss, source.less</scope>
+    <description>align content property</description>
+</snippet>

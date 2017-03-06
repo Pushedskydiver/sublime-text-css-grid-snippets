@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[grid-column-start: ${1:1}};]]></content>
+    <tabTrigger>gcs</tabTrigger>
+    <scope>source.css, source.sass, source.scss, source.less</scope>
+    <description>grid column start property</description>
+</snippet>

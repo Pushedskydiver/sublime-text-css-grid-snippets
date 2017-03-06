@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[align-cotntent: space-between;]]></content>
+    <tabTrigger>acsb</tabTrigger>
+    <scope>source.css, source.sass, source.scss, source.less</scope>
+    <description>align content space between property</description>
+</snippet>

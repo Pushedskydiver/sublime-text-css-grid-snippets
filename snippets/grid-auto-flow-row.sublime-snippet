@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[grid-auto-flow: row;]]></content>
+    <tabTrigger>gafr</tabTrigger>
+    <scope>source.css, source.sass, source.scss, source.less</scope>
+    <description>grid auto flow row property</description>
+</snippet>

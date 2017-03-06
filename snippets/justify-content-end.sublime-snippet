@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[justify-content: end;]]></content>
+    <tabTrigger>jce</tabTrigger>
+    <scope>source.css, source.sass, source.scss, source.less</scope>
+    <description>justify content end property</description>
+</snippet>

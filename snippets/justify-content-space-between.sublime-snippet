@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[justify-content: space-between;]]></content>
+    <tabTrigger>jcsb</tabTrigger>
+    <scope>source.css, source.sass, source.scss, source.less</scope>
+    <description>justify content space between property</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[align-items: ${1:center};]]></content>
+    <tabTrigger>ai</tabTrigger>
+    <scope>source.css, source.sass, source.scss, source.less</scope>
+    <description>align items property</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[display: inline-grid;]]></content>
+    <tabTrigger>disig</tabTrigger>
+    <scope>source.css, source.sass, source.scss, source.less</scope>
+    <description>display inline-grid property</description>
+</snippet>

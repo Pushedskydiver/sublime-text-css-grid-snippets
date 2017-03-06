@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[align-cotntent: space-around;]]></content>
+    <tabTrigger>acsa</tabTrigger>
+    <scope>source.css, source.sass, source.scss, source.less</scope>
+    <description>align content space around property</description>
+</snippet>

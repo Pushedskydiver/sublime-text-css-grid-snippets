@@ -1,0 +1,22 @@
+{
+  "name": "css-grid-snippets",
+  "version": "1.0.0",
+  "description": "CSS Grid Layout Snippets",
+  "keywords": [
+    "snippets",
+    "css",
+    "css grid",
+    "scss",
+    "grid"
+  ],
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pushedskydiver/sublime-text-css-grid-snippets"
+  },
+  "bugs": {
+    "url": "https://github.com/Pushedskydiver/sublime-text-css-grid-snippets/issues"
+  },
+  "homepage": "https://github.com/Pushedskydiver/sublime-text-css-grid-snippets",
+  "license": "MIT"
+}

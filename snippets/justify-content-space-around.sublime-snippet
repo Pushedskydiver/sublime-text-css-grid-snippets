@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[justify-content: space-around;]]></content>
+    <tabTrigger>jcsa</tabTrigger>
+    <scope>source.css, source.sass, source.scss, source.less</scope>
+    <description>justify content space around property</description>
+</snippet>

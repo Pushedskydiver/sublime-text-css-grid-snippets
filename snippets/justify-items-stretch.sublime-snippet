@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[justify-items: stretch;]]></content>
+    <tabTrigger>jistr</tabTrigger>
+    <scope>source.css, source.sass, source.scss, source.less</scope>
+    <description>justify items stretch property</description>
+</snippet>
